@@ -12,7 +12,6 @@ const Home = () => {
         <Item />
         <Item />
         <Item />
-        <Item />
       </div> 
     </section>;
 
